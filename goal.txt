@@ -21,7 +21,3 @@ Levels of complexity:
 --- Constant center of mass
 --- Moving center of mass
 -- Slosh
-
-Purpose:
-- Learn about different control strategies and their implementation
-- Show self drive

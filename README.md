@@ -16,3 +16,7 @@ A preliminary model of the rocket is finished and produces more or less sensible
 * Better aerodynamic model
 * Extend rocket to have a nose-cone: include center of pressure in the aerodynamic model
 * Include Lift/Drag (lead to automatic stabilization of the rocket)
+
+## Academic sources
+* https://eprints.soton.ac.uk/73938/1/boxetal11%2520%25282%2529.pdf
+* https://github.com/irec-duster/RORO/blob/master/simulation/simulator%20docs/IdentificationandControlofaHighPowerRocket-HA.pdf
