@@ -1,0 +1,8 @@
+28.10.17
+- Ported stuff to python
+- PID control for angular stabilization
+- direct PID control not possible for position control bc. no direct control authority
+-- sequential PID control as in Quad-copter would be possible
+--- Assumption that inner loop is fast does not hold in this case due to big rocket mass, low lateral control
+--- Try sequential control with inner loop being the orientation (add very high gain as temp. fix), outer loop being the position
+--- No respect wrt. to constraints possible

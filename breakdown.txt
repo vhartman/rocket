@@ -1,0 +1,6 @@
+Breakdown of Tasks to achieve goal:
+
+- Point mass simulation with limited fuel
+-- Env
+--- Drag (with proper levels; model as sphere)
+--- Gravity

@@ -1,0 +1,27 @@
+Goal:
+- Landing a rocket
+- Orbiting
+-- Goddard Problem
+
+Initial states:
+- Starting regularly (for goddard)
+- Falling from the sky
+- From orbit
+
+Levels of complexity:
+- Environment
+-- Drag
+--- Density of the air depenedent on the height
+--- Center of 
+-- Gravity
+--- Earth is round
+- Rocket model
+-- Point mass
+-- Recktangle with inertia
+--- Constant center of mass
+--- Moving center of mass
+-- Slosh
+
+Purpose:
+- Learn about different control strategies and their implementation
+- Show self drive
